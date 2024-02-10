@@ -10,7 +10,10 @@ fn main() {
         print!("Enter input: ");
         io::stdout().flush().expect("Something went wrong");
         io::stdin().read_line(&mut input).expect("something went wrong");
-        let input: i32 = input.trim().parse().unwrap_or_else(|_| -1);
+        let input: i32 = match input.trim().parse() {
+            Ok(input) => input,
+            Err(_) => panic!("something went wrong")
+        };
         match input {
             -1 => println!("Invalid input"),
 
