@@ -1,0 +1,114 @@
+[
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Julio",
+      "last": "Ferguson"
+    },
+    "location": {
+      "street": {
+        "number": 5496,
+        "name": "Mockingbird Hill"
+      },
+      "city": "Gladstone",
+      "state": "Northern Territory",
+      "country": "Australia",
+      "postcode": 7967,
+      "coordinates": {
+        "latitude": "-88.6555",
+        "longitude": "-63.7302"
+      },
+      "timezone": {
+        "offset": "+5:45",
+        "description": "Kathmandu"
+      }
+    },
+    "email": "julio.ferguson@example.com",
+    "login": {
+      "uuid": "83c88649-f8fb-470b-a2a8-0a305c6933c2",
+      "username": "purplelion105",
+      "password": "bulldog1",
+      "salt": "9F0RCbQ6",
+      "md5": "0cb3a57199eddb91975f9881de0bd25d",
+      "sha1": "3a5b17ebf67ba9370bd0729f70a842af619d8c38",
+      "sha256": "107ceb35d099b61da88a5c0ddfb7bc00623b28cea9a1aa697b474db7f53307c3"
+    },
+    "dob": {
+      "date": "1983-06-21T00:17:16.958Z",
+      "age": 40
+    },
+    "registered": {
+      "date": "2006-04-09T19:07:55.599Z",
+      "age": 17
+    },
+    "phone": "03-7362-2716",
+    "cell": "0407-432-834",
+    "id": {
+      "name": "TFN",
+      "value": "684777746"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/1.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/1.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/1.jpg"
+    },
+    "nat": "AU"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Monsieur",
+      "first": "Lino",
+      "last": "Caron"
+    },
+    "location": {
+      "street": {
+        "number": 5402,
+        "name": "Avenue de la République"
+      },
+      "city": "Agarn",
+      "state": "Schwyz",
+      "country": "Switzerland",
+      "postcode": 6112,
+      "coordinates": {
+        "latitude": "24.9552",
+        "longitude": "-152.3205"
+      },
+      "timezone": {
+        "offset": "+8:00",
+        "description": "Beijing, Perth, Singapore, Hong Kong"
+      }
+    },
+    "email": "lino.caron@example.com",
+    "login": {
+      "uuid": "c744c57a-e6bc-4bc7-ac23-92d800a6335d",
+      "username": "tinyrabbit122",
+      "password": "playstat",
+      "salt": "mnv27nTD",
+      "md5": "1a8671eaf60f188d4cc45f1d76abb6e0",
+      "sha1": "591e5710f37f4015b44ca6bf27a38381788e0bd6",
+      "sha256": "fb4be276ce181905075c7a6977323c1c3ef657efbf8f892e204f06dfb95dd548"
+    },
+    "dob": {
+      "date": "2000-06-04T19:06:02.130Z",
+      "age": 23
+    },
+    "registered": {
+      "date": "2007-01-12T07:56:54.052Z",
+      "age": 17
+    },
+    "phone": "077 170 07 18",
+    "cell": "076 231 44 57",
+    "id": {
+      "name": "AVS",
+      "value": "756.7623.9272.80"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/30.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/30.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/30.jpg"
+    },
+    "nat": "CH"
+  }
+]

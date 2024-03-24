@@ -1,0 +1,56 @@
+{
+  "gender":"female",
+  "name":{
+    "title":"Mrs",
+    "first":"Birte",
+    "last":"Leibold"
+  },
+  "location":{
+    "street":{
+      "number":9920,
+      "name":"Hauptstraße"
+    },
+    "city":"Sassnitz",
+    "state":"Saarland",
+    "country":"Germany",
+    "postcode":84527,
+    "coordinates":{
+      "latitude":"-47.1527",
+      "longitude":"158.0055"
+    },
+    "timezone":{
+      "offset":"-9:00",
+      "description":"Alaska"
+    }
+  },
+  "email":"birte.leibold@example.com",
+  "login":{
+    "uuid":"2891f6cb-d9d0-46ca-8ea1-59759b70582f",
+    "username":"beautifulfrog645",
+    "password":"passw0rd",
+    "salt":"I1ayVNI5",
+    "md5":"9047a61263fc14e4ad099fe62d05cd4b",
+    "sha1":"846a1f7b32099573b9bb25dbe6bb0f68d7706b06",
+    "sha256":"310d718dfdb99a5ac50a41da6891edf826d4ca7c61d88e8ad7953c863ffb130e"
+  },
+  "dob":{
+    "date":"1971-07-12T09:54:47.737Z",
+    "age":52
+  },
+  "registered":{
+    "date":"2009-06-02T09:13:20.592Z",
+    "age":14
+  },
+  "phone":"0640-3519069",
+  "cell":"0171-0002704",
+  "id": {
+    "name":"SVNR",
+    "value":"16 120771 L 556"
+  },
+  "picture":{
+    "large":"https://randomuser.me/api/portraits/women/57.jpg",
+    "medium":"https://randomuser.me/api/portraits/med/women/57.jpg",
+    "thumbnail":"https://randomuser.me/api/portraits/thumb/women/57.jpg"
+  },
+  "nat":"DE"
+}
